@@ -1,0 +1,24 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{F94DE4C5-D2D8-43DB-B777-1DEDD3336AD9}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradApp_InventoryTrackerAPI" expanded="True">
+            <Node name="GradApp_InventoryTrackerAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GradApp__InventoryTrackerAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
